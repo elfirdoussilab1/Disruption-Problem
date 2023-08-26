@@ -1,2 +1,2 @@
 # Disruption-Problem
-Disruption problem consists on modeling a sequnece of time arrivals of some event using two Poisson processes $T_1$ and $T_2$
+Disruption problem consists on modeling a sequnece of time arrivals of some event using two Poisson processes $T_1$ and $T_2$ of intensities $\lambda_1$ and $\lambda_2$ respectively. The transition between these processes is done in time $\tau$, which is a random variable of exponential law. Our goal in this project is to give a method that will be able to estimate as accurately as possible the value of this transition instant $\tau$.
